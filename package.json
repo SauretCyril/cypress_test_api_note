@@ -1,0 +1,18 @@
+{
+  "name": "cypress_test_api_note",
+  "version": "1.0.0",
+  "description": "cypress_test_api_note",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.12.0",
+    "cypress-downloadfile": "^1.2.4",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-localstorage-commands": "^2.2.6"
+  }
+}
